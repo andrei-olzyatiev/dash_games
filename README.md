@@ -1,5 +1,5 @@
 # dash_games
-Trial for Junior Data Analyst position by Valiotti Analytics
+Trial for Junior Data Analyst position
 Dashboard built on Superstore dataset
 
 To run you need to keep the *.csv file with data to the same location with superstore_app.py and call it superstore.csv.
